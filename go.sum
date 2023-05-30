@@ -6,5 +6,7 @@ github.com/NGkaltzidis/puppy v0.0.0-20230530122233-7a73e2545285 h1:DQus//E0JQiqf
 github.com/NGkaltzidis/puppy v0.0.0-20230530122233-7a73e2545285/go.mod h1:KsgVXlq8h28KjvO5cHT7KGF+7nGNvCLS3ljI4nddGKg=
 github.com/NGkaltzidis/puppy v0.0.0-20230530123956-ac29eecd605e h1:rsqOVNkfLWM69F4cvgcovu1HaTSnJ6lWuai04OeJgzs=
 github.com/NGkaltzidis/puppy v0.0.0-20230530123956-ac29eecd605e/go.mod h1:a0xGAYreIKrOWBD7OOrdvrNN02V4UZ1Lfl8fjDkoaHI=
+github.com/NGkaltzidis/puppy v1.3.1-0.20230530193624-1797a2b86e74 h1:TerLt2c6+buFOmU6at4jVXokCeN+2woi4+Na8qvHiG0=
+github.com/NGkaltzidis/puppy v1.3.1-0.20230530193624-1797a2b86e74/go.mod h1:a0xGAYreIKrOWBD7OOrdvrNN02V4UZ1Lfl8fjDkoaHI=
 github.com/NGkaltzidis/testing v0.0.0-20230530134653-69d2e7938234 h1:yKXCJHhEYnU5cQoCq2bPN+sklv1wx8iVgwhDMyIin8Q=
 github.com/NGkaltzidis/testing v0.0.0-20230530134653-69d2e7938234/go.mod h1:7sN95ZIGDAw0CxlK2M5Kczji7+T8ADJrfdX/HWmH/iE=
