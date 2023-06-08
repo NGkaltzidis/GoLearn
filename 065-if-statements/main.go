@@ -23,4 +23,5 @@ func main() {
 	} else {
 		fmt.Println("Greater than the meaning of life")
 	}
+
 }
