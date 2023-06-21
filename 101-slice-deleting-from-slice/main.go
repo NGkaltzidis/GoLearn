@@ -30,4 +30,12 @@ func main() {
 	// Note : [inclusive:exclusive]
 	// Whatever is inclusive remains in the slice
 	// Whatever is exclusive is removed from the slice
+
+	sl := []bool{true, false, false, true, false}
+
+	for i := 0; i < len(sl); i++ {
+		if sl[i] == true {
+			fmt.Println(append(sl[:i]))
+		}
+	}
 }
