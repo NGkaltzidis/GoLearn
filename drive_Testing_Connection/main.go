@@ -8,6 +8,7 @@ import (
 
 func main() {
 	device := "/dev/disk3"
+	// name = command, args = options and then can be followed by whatever
 	cmd := exec.Command("diskutil", "info", device)
 
 	output, err := cmd.CombinedOutput()
