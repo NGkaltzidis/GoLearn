@@ -23,7 +23,7 @@ func main() {
 	randomLetters2 := randomString(10)
 
 	// Create the content string
-	content := randomLetters + "S6PUNF0R600209F" + randomLetters2
+	content := randomLetters + "Samsung_SSD_870_EVO_1TB_S6PUNF0R600209F" + randomLetters2
 
 	// Write the content to the file
 	err := ioutil.WriteFile(".licence", []byte(content), 0644)
